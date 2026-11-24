@@ -1,0 +1,16 @@
+# Generated compilation artifacts
+*.o
+*.a
+*.d
+*.gch
+
+# Local executable from the README example
+/demo
+
+# Editor and OS files
+*~
+*.swp
+*.swo
+.DS_Store
+.vscode/
+.idea/
